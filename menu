@@ -2,25 +2,25 @@
     {
         "id": "1",
         "parent_id": "0",
-        "name": "Kompjuteri",
+        "name": "Project",
         "children": [
             [
                 {
                     "id": "4",
                     "parent_id": "1",
-                    "name": "Laptop",
+                    "name": "Project1",
                     "children": []
                 },
                 {
                     "id": "5",
                     "parent_id": "1",
-                    "name": "Desktop",
+                    "name": "Project2",
                     "children": []
                 },
                 {
                     "id": "6",
                     "parent_id": "1",
-                    "name": "All-in-one",
+                    "name": "Project3",
                     "children": []
                 }
             ]
@@ -29,7 +29,7 @@
     {
         "id": "2",
         "parent_id": "0",
-        "name": "Monitori",
+        "name": "",
         "children": [
             [
                 {
